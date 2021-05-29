@@ -4,7 +4,8 @@
 Ce projet vise à exploiter le jeu de données des [noms de domaines FR](https://www.afnic.fr/produits-services/services-associes/donnees-partagees/) disponible sur le site de l'[AFNIC](https://www.afnic.fr/)
 
 ## Pour commencer
-Ce répertoire contient (normalement) tous les codes et documents nécessaires pour reproduire les résultats et affichages obtenus
+Ce répertoire contient tous les codes et documents nécessaires pour reproduire les résultats et affichages obtenus
+
 N'oubliez pas d'utiliser [Git LFS](https://git-lfs.github.com/) pour partager les fichiers les plus volumineux
 
 ## Copyright
